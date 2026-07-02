@@ -1,0 +1,7 @@
+2026-07-02 16:10:05,145 | INFO    | ilmkon-bot | Bot ishga tushdi ✅
+2026-07-02 16:10:05,629 | INFO    | aiogram.dispatcher | Start polling
+2026-07-02 16:10:05,920 | INFO    | aiogram.dispatcher | Run polling for bot @IlmkonFeedbackBot id=8989612330 - "Ilmkon School | Taklif va E'tirozlar"
+2026-07-02 16:10:14,577 | INFO    | aiogram.event | Update id=850887790 is handled. Duration 3393 ms by bot id=8989612330
+2026-07-02 16:10:16,837 | WARNING | aiogram.dispatcher | Received SIGINT signal
+2026-07-02 16:10:16,839 | INFO    | aiogram.dispatcher | Polling stopped for bot @IlmkonFeedbackBot id=8989612330 - "Ilmkon School | Taklif va E'tirozlar"
+2026-07-02 16:10:16,839 | INFO    | aiogram.dispatcher | Polling stopped
